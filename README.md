@@ -1,6 +1,6 @@
 # healthcare-chatbot<br/>
 This healthcare-chartbot project is based on sklearn.<br/>
-The users are available to ask some symptoms to this project<br/>
+The users are available to ask some symptoms to this project.<br/>
 In additional, this healthcare system ask to users some questions and users should answer about that, because this system analyze your health prolem according to your answers.<br/>
 So, please answer more kindly for you.<br/>
 
