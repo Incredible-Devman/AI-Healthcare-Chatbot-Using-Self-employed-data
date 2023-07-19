@@ -5,10 +5,10 @@ In additional, this healthcare system ask to users some questions and users shou
 So, please answer more kindly for you.<br/>
 
 #insatll<br/>
-pip insatll -r requirements.txt<br/>
+ pip insatll -r requirements.txt<br/>
 
 #run<br/>
-python chat_bot.py<br/>
+ python chat_bot.py<br/>
 
 #Muilti-steps for estimating your health porblem.<br/>
  1. Input your recent symptom<br/>
